@@ -10,7 +10,7 @@
 ## Đặt vấn đề
 
 - Thị trường chứng khoán biến động thường xuyên và phụ thuộc vào rất nhiều yếu tố ngoại cảnh
-- Ngoài các yếu tố ngoại cảnh, dự ảnh hưởng của giá chứng khoán trong quá khứ cũng tác động rất nhiều đến tương lai
+- Ngoài các yếu tố ngoại cảnh, sự ảnh hưởng của giá chứng khoán trong quá khứ cũng tác động rất nhiều đến tương lai
 - Tìm ra sự tác động này giúp một phần trong việc dự đoán giá chứng khoán
 
 ## Giải quyết
