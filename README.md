@@ -13,6 +13,9 @@
 - Ngoài các yếu tố ngoại cảnh, sự ảnh hưởng của giá chứng khoán trong quá khứ cũng tác động rất nhiều đến tương lai
 - Tìm ra sự tác động này giúp một phần trong việc dự đoán giá chứng khoán
 
+## Câu hỏi
+- Dự đoán giá chứng khoán của công ty AMAZON trong n ngày tiếp theo (n > 0) dựa theo lịch sử giao dịch trước đó
+
 ## Giải quyết
 
 ### Ý tưởng
