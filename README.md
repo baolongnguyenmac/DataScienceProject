@@ -14,7 +14,7 @@
 - Tìm ra sự tác động này giúp một phần trong việc dự đoán giá chứng khoán
 
 ## Câu hỏi
-- Dự đoán giá chứng khoán của công ty AMAZON trong n ngày tiếp theo (n > 0) dựa theo lịch sử giao dịch trước đó
+- Dự đoán giá chứng khoán của công ty Amazon trong n ngày tiếp theo (n > 0) dựa theo lịch sử giao dịch
 
 ## Giải quyết
 
